@@ -1,0 +1,4 @@
+interface:
+  display_name: "言情小说写作"
+  short_description: "创作与润色约五千字中文言情小说，重视冲突、物件叙情、口语对白与含蓄余味"
+  default_prompt: "请用 $romance-fiction 写一篇五千字左右的中文言情小说，采用本 Skill 的叙事与排版偏好。"
